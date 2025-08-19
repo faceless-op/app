@@ -4,7 +4,7 @@ An AI-powered calorie tracking app that simplifies food logging using image reco
 
 ## 🚀 Features
 
-- AI-powered food recognition from photos
+- AI-powered food recognition from chat bot.
 - Daily calorie and macronutrient tracking
 - Intuitive progress dashboards
 - Secure authentication with Supabase
